@@ -11,7 +11,7 @@ I'm a software developer appasionate in all about Computer Science.
 - I like algoritms challenges so much :fire:
 - I prefer Back-end over Front-end :stuck_out_tongue_closed_eyes:
 - Fun fact: I get very nervous when I try to center something in CSS :grimacing:
-- Fun fact 2: Probably at same you I have a existencial crisis when I need choose a JS framework to my projects :fearful:
+- Fun fact 2: Probably at same you I have a existencial crisis when I need choose a JS framework for my projects :fearful:
 
 ### My GitHub Stats:
 ![Unborn20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unborn20&theme=blueberry&show_icons=true)
