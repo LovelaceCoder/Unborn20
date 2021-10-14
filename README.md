@@ -7,7 +7,7 @@ I'm a software developer appasionate in all about Computer Science.
 ### About me:
 
 - I'm currently learning MERN Stack, .NET, Software Architecture, SQL and NoSQL databases :books: :pencil2:
-- I'm currently working at Infometrika SAS :alien:
+- I'm currently looking for a new Job :innocent:
 - I like algoritms challenges so much :fire:
 - I prefer Back-end over Front-end :stuck_out_tongue_closed_eyes:
 - Fun fact: I get very nervous when I try to center something in CSS :grimacing:
