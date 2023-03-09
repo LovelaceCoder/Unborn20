@@ -6,7 +6,7 @@ I'm a software developer appasionate in all about Computer Science.
 
 ### About me:
 
-- I'm currently learning MERN Stack, .NET, Software Architecture, SQL and NoSQL databases :books: :pencil2:
+- I'm currently learning MERN Stack, AWS, Software Architecture, SQL and NoSQL databases :books: :pencil2:
 - I'm currently working on UltraGroup 👽
 - I like algoritms challenges so much :fire:
 - I prefer Front-end over Back-end :stuck_out_tongue_closed_eyes:
