@@ -1,4 +1,4 @@
-# Hello, Zergio's here, welcome to my little programming world!
+# Hello, Sergio's here, welcome to my little programming world!
 
 I'm a software developer appasionate in all about Computer Science.
 
